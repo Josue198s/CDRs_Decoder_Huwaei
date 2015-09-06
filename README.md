@@ -29,5 +29,5 @@ any fault condition encountered
 Please fill free to edit the code and always share.
 
 **Open Source forever.**
-lnx.lnx aka josue198s
+Josue198s
 
